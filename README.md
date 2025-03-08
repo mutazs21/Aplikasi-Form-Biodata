@@ -21,3 +21,7 @@
 - Isi jurusan
 - Jurusan yang tertarik
 - Rentang nilai
+
+## link
+
+https://aplikasi-form-biodata-bqkkmrmwshshhjoxyfo6x7.streamlit.app/
