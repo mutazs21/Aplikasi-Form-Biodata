@@ -19,5 +19,5 @@
 ## pilih jurusan
 
 - Isi jurusan
-- Jurusan yang tertarin
+- Jurusan yang tertarik
 - Rentang nilai
